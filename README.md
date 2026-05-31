@@ -1,6 +1,7 @@
 # TestHub — AI 驱动的测试管理平台
 
-> 基于 Django 4.2 + Vue 3 构建的全栈测试管理平台，覆盖手工测试、API 自动化、UI 自动化、APP 自动化及 AI 智能测试。
+> 基于 Django 4.2 + Vue 3 构建的全栈测试管理平台，覆盖手工测试、API 自动化、UI 自动化、APP 自动化及 AI 智能测试（此项目为已获取授权的二开项目）。
+<img width="1986" height="924" alt="image" src="https://github.com/user-attachments/assets/cf801902-4df5-4d0a-b7e0-ba4b029907f0" />
 
 ---
 
