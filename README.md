@@ -90,7 +90,7 @@ TestHub 是一个面向测试团队的一站式测试管理平台，主要功能
 
 ```bash
 # 1. 克隆项目
-git clone <repo-url>
+git@github.com:alonghack/TestHub.git
 cd TestHub
 
 # 2. 创建并激活虚拟环境
